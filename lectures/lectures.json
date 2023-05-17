@@ -1,0 +1,85 @@
+{
+  "course-code": "seattle-code-102d47",
+  "lectures": {
+    "module-01": {
+      "class-01": {
+        "title": "Learning. Markdown.",
+        "link": "https://zoom.us/rec/share/oSM_3QeTDOxo-bKS1nR7s1ZFN_9zmuO9rKVo9J2hjPrcC-G3xdaBVxeyZrMfCiwv.7CBNqdAg7HnIVXNK?startTime=1673283728000",
+        "date": "1673283728000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-02": {
+      "class-01": {
+        "title": "The Coder's Computer",
+        "link": "https://zoom.us/rec/share/-75C8_JZeqlZPyOchMZxYzw5WleqLmsaRrcuA8NtSRvWW7ek3AS-EajRfciBYLjC.cwb3rtZYfSnSjdtr?startTime=1673298074000",
+        "date": "1673298074000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-03": {
+      "class-01": {
+        "title": "Revisions and the Cloud",
+        "link": "https://zoom.us/rec/share/HuDqYqNPZ5XmUfhAUpECunmY6tSSQMTfhc6NcWYnv4DgC1OQJ0mRTkBV27mMbl7J.J9VF8DBVVj89qNLa?startTime=1673370204000",
+        "date": "1673370204000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-04": {
+      "class-01": {
+        "title": "Structure Web Pages with HTML",
+        "link": "https://zoom.us/rec/share/-09uDJhuUMRCO7O7oxIQwDorGjET9nY87TPQfV1HvxJbLVdb1mRLSgrIg6MHLcQ2.pLqeuYtT22PGjvg7?startTime=1673384481000",
+        "date": "1673384481000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-05": {
+      "class-01": {
+        "title": "Style Web Pages with CSS",
+        "link": "https://zoom.us/rec/share/-Dh8aqn1n0mUIPsTVEITF0w97fupPFV6HDOWdPpAEfz0RhnzKRnItzlJN7CcFeVk.W-Jvje-EFKOi751y?startTime=1673456667000",
+        "date": "1673456667000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-06": {
+      "class-01": {
+        "title": "Dynamic Web Pages with JavaScript",
+        "link": "https://zoom.us/rec/share/1yas0NzoBNCZCcLF1B6_H3QwPPVunvJ5hVmSiCPe3OkwKRmj7LPuSoNJDvlKbV-R.9okBSU_9lR9pcZX4?startTime=1673470940000",
+        "date": "1673470940000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-07": {
+      "class-01": {
+        "title": "Programming with JavaScript",
+        "link": "https://zoom.us/rec/share/ZtAV7uPKpesUoxrnkh4Th-3yKTBnsNzaUdszqlhBdN2jtbs4LbKz7tolGQ70lMKR.gYvQvTFawoJzGB3u?startTime=1673542875000",
+        "date": "1673542875000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-08": {
+      "class-01": {
+        "title": "Computer Logic and Loops",
+        "link": "https://zoom.us/rec/share/STdN2BjoZViQuExWc_odGwtBlA0ShXsk84s0HcMQcB_DYWXpv1v8zXKRLyzKt9pU.krcTePv7fnj4-JE7?startTime=1673557446000",
+        "date": "1673557446000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-09": {
+      "class-01": {
+        "title": "Career Coaching",
+        "link": "https://zoom.us/rec/share/QTEyB5LvRsRSzoQew9DL3Y0ceCXZeu2TMiC1vUDY9-f2_zbY29QXS37mh3j3XBs.s_RbbiVuDaFi0UcG?startTime=1673629235000",
+        "date": "1673629235000",
+        "instructor": "Kassie Bradshaw"
+      }
+    },
+    "module-10": {
+      "class-01": {
+        "title": "Final Exam & Next Steps",
+        "link": "https://zoom.us/rec/share/tyMOLthqx4VHR4dtwFRV1PUShmu_pBkJXLDRxTeER8GdGR29QIONHEtjKqKBwVwL.Neq1hNLMJK4vyzWD?startTime=1673643773000",
+        "date": "1673643773000",
+        "instructor": "Kassie Bradshaw"
+      }
+    }
+  }
+}
