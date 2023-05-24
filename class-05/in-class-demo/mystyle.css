@@ -1,0 +1,72 @@
+/* SELECTORS */
+
+/* Here is an example of a CSS rule
+
+element-name {
+  property to manipulate: value you want to change it to;
+}
+*/
+
+/* 
+This is the 'universal selector' meaning it will apply this rule to ALL HTML elements
+
+* {
+  border: 2px solid black;
+} */
+
+/* select an element by name
+
+body {
+  background-color: red; <-- color name
+  background-color: rgb(214, 173, 60); <-- rgb value
+  background-color: #ff3344 <-- hex code
+  background-color: #f34 <-- 3-digit hex code, same as above
+} 
+*/
+
+/* select an element by location: Go to the header, find all the li elements
+
+header li {
+  display: inline-block;
+} */
+
+
+/* id selector */
+/* find all elements with the id 'nav-list' */
+#nav-list {
+  background-color: rgb(187, 74, 187);
+}
+
+/* class selector */
+/* find all elements with the class of 'nav-li' */
+.nav-li {
+  display: inline-block;
+}
+
+
+
+section {
+  display: inline-block;
+  background-color: #82a43a;
+  width: 30%;
+}
+
+#car {
+  width: 200px;
+}
+
+h1 {
+  float: left;
+  margin: 10px;
+  padding: 10px;
+}
+
+#main-image {
+  height: 300px;
+  border-radius: 10%;
+}
+
+main p {
+  border-radius: 10%;
+  color: white;
+}
